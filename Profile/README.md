@@ -14,36 +14,10 @@ When in development stage, the developer should commit to a separate branch. Thi
 - Or by creating a new branch called **feat/name_of_the_feature** or **fix/name_of_the_bug**.
 
 ## Teams Roles
-### Team Member
-**Description**: Any Member of the Isel Formula Student
-**Access**:
-- Clone Repos
-- Read Repos
+| **Role**        | **Description**                                     | **Access**                                                 |
+| --------------- | --------------------------------------------------- | ---------------------------------------------------------- |
+| **Team Member** | Any Member of the Isel Formula Student              | - Clone Repos<br>- Read Repos                              |
+| **Electronics** | Any Member that belongs to the **electronics** team | - Clone Repos<br>- Read Repos<br>- Write Electronics Repos |
+| **Powertrain**  | Any Member that belongs to the **powertrain** team  | - Clone Repos<br>- Read Repos<br>- Write Powertrain Repos  |
+| **Web**         | Any Member that is responsible for the **Website**  | - Clone Repos<br>- Read Repos                              |
 
-### Electronics
-**Description**: Any Member that belongs to the **electronics** team
-**Access**:
-- Clone Repos
-- Read Repos
-- Write Electronics Repos
-
-### Powertrain
-**Description**: Any Member that belongs to the **powertrain** team
-**Access**:
-- Clone Repos
-- Read Repos
-- Write Powertrain Repos
-
-### Web
-**Description**: Any Member that is responsible for the **Website**
-**Access**:
-- Clone Repos
-- Read Repos
-- Write Website repo
-
-### Driverless
-**Description**: Any Member that belongs to the **driverless** team
-**Access**:
-- Clone Repos
-- Read Repos
-- Write Driverless Repos
