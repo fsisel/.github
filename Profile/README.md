@@ -20,4 +20,5 @@ When in development stage, the developer should commit to a separate branch. Thi
 | **Electronics** | Any Member that belongs to the **electronics** team | - Clone Repos<br>- Read Repos<br>- Write Electronics Repos |
 | **Powertrain**  | Any Member that belongs to the **powertrain** team  | - Clone Repos<br>- Read Repos<br>- Write Powertrain Repos  |
 | **Web**         | Any Member that is responsible for the **Website**  | - Clone Repos<br>- Read Repos                              |
+| **Driverless**  | Any Member that belongs to the **driverless** team  | - Clone Repos<br>- Read Repos<br>- Write Driverless Repos  |
 
